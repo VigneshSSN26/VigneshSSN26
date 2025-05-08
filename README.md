@@ -17,7 +17,7 @@
   - 🛡️ **DDoS Attack Detection** using ML anomaly detection techniques  
   - 🏏 **Ash League Auction** platform for fantasy cricket bidding  
 - 🌱 I’m currently improving my **Flutter**, **Next.js**, and **TensorFlow** skills  
-- 📫 Reach me at: **vignesh.yourmail@example.com**
+- 📫 Reach me at: **vigneshmt27@gmail.com**
 
 ---
 
@@ -44,9 +44,9 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" alt="Vignesh's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=radical" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=VigneshSSN26&theme=radical" alt="Vignesh's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VigneshSSN26&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VigneshSSN26&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
